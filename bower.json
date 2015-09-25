@@ -1,0 +1,16 @@
+{
+  "name": "mytweets",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "client/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "client/components"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}

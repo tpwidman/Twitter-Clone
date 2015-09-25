@@ -1,0 +1,5 @@
+node_modules
+lib
+bower_components
+client/lib
+client/bower_components
